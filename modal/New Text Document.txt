@@ -1,7 +1,0 @@
-<?php include('header.php'); ?>
-<head>
-	<link rel="icon" href="modal\css1\images\logo.png" type="image" />
-	
-	
-
-</head>
